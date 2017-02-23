@@ -1,0 +1,40 @@
+C:\mvc_project\TaskList_Service\TaskList_Service\bin\TaskList_Service.dll.config
+C:\mvc_project\TaskList_Service\TaskList_Service\bin\TaskList_Service.dll
+C:\mvc_project\TaskList_Service\TaskList_Service\bin\TaskList_Service.pdb
+C:\mvc_project\TaskList_Service\TaskList_Service\obj\Debug\TaskList_Service.dll
+C:\mvc_project\TaskList_Service\TaskList_Service\obj\Debug\TaskList_Service.pdb
+C:\mvc_project\TaskList_Service\TaskList_Service\bin\EntityFramework.dll
+C:\mvc_project\TaskList_Service\TaskList_Service\bin\EntityFramework.SqlServer.dll
+C:\mvc_project\TaskList_Service\TaskList_Service\bin\EntityFramework.xml
+C:\mvc_project\TaskList_Service\TaskList_Service\bin\EntityFramework.SqlServer.xml
+C:\TaskList_Service\TaskList_Service\bin\TaskList_Service.dll.config
+C:\TaskList_Service\TaskList_Service\bin\TaskList_Service.dll
+C:\TaskList_Service\TaskList_Service\bin\TaskList_Service.pdb
+C:\TaskList_Service\TaskList_Service\bin\EntityFramework.dll
+C:\TaskList_Service\TaskList_Service\bin\EntityFramework.SqlServer.dll
+C:\TaskList_Service\TaskList_Service\bin\EntityFramework.xml
+C:\TaskList_Service\TaskList_Service\bin\EntityFramework.SqlServer.xml
+C:\TaskList_Service\TaskList_Service\obj\Debug\TaskList_Service.dll
+C:\TaskList_Service\TaskList_Service\obj\Debug\TaskList_Service.pdb
+E:\Dot_Net_Projects\Repository Pattern in MVC5\C#\TaskList_Service\bin\App_Data\EmployeeDB.mdf
+E:\Dot_Net_Projects\Repository Pattern in MVC5\C#\TaskList_Service\bin\App_Data\EmployeeDB_log.ldf
+E:\Dot_Net_Projects\Repository Pattern in MVC5\C#\TaskList_Service\bin\TaskList_Service.dll.config
+E:\Dot_Net_Projects\Repository Pattern in MVC5\C#\TaskList_Service\bin\TaskList_Service.dll
+E:\Dot_Net_Projects\Repository Pattern in MVC5\C#\TaskList_Service\bin\TaskList_Service.pdb
+E:\Dot_Net_Projects\Repository Pattern in MVC5\C#\TaskList_Service\bin\EntityFramework.dll
+E:\Dot_Net_Projects\Repository Pattern in MVC5\C#\TaskList_Service\bin\EntityFramework.SqlServer.dll
+E:\Dot_Net_Projects\Repository Pattern in MVC5\C#\TaskList_Service\bin\EntityFramework.xml
+E:\Dot_Net_Projects\Repository Pattern in MVC5\C#\TaskList_Service\bin\EntityFramework.SqlServer.xml
+E:\Dot_Net_Projects\Repository Pattern in MVC5\C#\TaskList_Service\obj\Debug\TaskList_Service.dll
+E:\Dot_Net_Projects\Repository Pattern in MVC5\C#\TaskList_Service\obj\Debug\TaskList_Service.pdb
+E:\Dot_Net_Projects\Assignment_Backup\WCF_Demo\TaskList_Service\bin\App_Data\EmployeeDB.mdf
+E:\Dot_Net_Projects\Assignment_Backup\WCF_Demo\TaskList_Service\bin\App_Data\EmployeeDB_log.ldf
+E:\Dot_Net_Projects\Assignment_Backup\WCF_Demo\TaskList_Service\bin\TaskList_Service.dll.config
+E:\Dot_Net_Projects\Assignment_Backup\WCF_Demo\TaskList_Service\bin\TaskList_Service.dll
+E:\Dot_Net_Projects\Assignment_Backup\WCF_Demo\TaskList_Service\bin\TaskList_Service.pdb
+E:\Dot_Net_Projects\Assignment_Backup\WCF_Demo\TaskList_Service\bin\EntityFramework.dll
+E:\Dot_Net_Projects\Assignment_Backup\WCF_Demo\TaskList_Service\bin\EntityFramework.SqlServer.dll
+E:\Dot_Net_Projects\Assignment_Backup\WCF_Demo\TaskList_Service\bin\EntityFramework.xml
+E:\Dot_Net_Projects\Assignment_Backup\WCF_Demo\TaskList_Service\bin\EntityFramework.SqlServer.xml
+E:\Dot_Net_Projects\Assignment_Backup\WCF_Demo\TaskList_Service\obj\Debug\TaskList_Service.dll
+E:\Dot_Net_Projects\Assignment_Backup\WCF_Demo\TaskList_Service\obj\Debug\TaskList_Service.pdb

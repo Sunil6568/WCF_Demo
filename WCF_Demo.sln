@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client.UI", "WCF_Demo\Client.UI.csproj", "{1C165252-ADAF-4BF3-814A-CC86DD1BFFDD}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6C579B74-2DDF-4721-A5AC-B7FDD73EFF1B} = {6C579B74-2DDF-4721-A5AC-B7FDD73EFF1B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskList_Service", "TaskList_Service\TaskList_Service.csproj", "{6C579B74-2DDF-4721-A5AC-B7FDD73EFF1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C165252-ADAF-4BF3-814A-CC86DD1BFFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C165252-ADAF-4BF3-814A-CC86DD1BFFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C165252-ADAF-4BF3-814A-CC86DD1BFFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C165252-ADAF-4BF3-814A-CC86DD1BFFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C579B74-2DDF-4721-A5AC-B7FDD73EFF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C579B74-2DDF-4721-A5AC-B7FDD73EFF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C579B74-2DDF-4721-A5AC-B7FDD73EFF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C579B74-2DDF-4721-A5AC-B7FDD73EFF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
