@@ -1,9 +1,4 @@
 ﻿
-// Houssem Dellai
-// houssem.dellai@live.com
-// @HoussemDellai
-// +216 95 325 964
-
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;

@@ -38,3 +38,15 @@ E:\Dot_Net_Projects\Assignment_Backup\WCF_Demo\TaskList_Service\bin\EntityFramew
 E:\Dot_Net_Projects\Assignment_Backup\WCF_Demo\TaskList_Service\bin\EntityFramework.SqlServer.xml
 E:\Dot_Net_Projects\Assignment_Backup\WCF_Demo\TaskList_Service\obj\Debug\TaskList_Service.dll
 E:\Dot_Net_Projects\Assignment_Backup\WCF_Demo\TaskList_Service\obj\Debug\TaskList_Service.pdb
+E:\Dot_Net_Projects\Assignment_Backup\GitWorking\WCF_Demo\TaskList_Service\bin\App_Data\EmployeeDB.mdf
+E:\Dot_Net_Projects\Assignment_Backup\GitWorking\WCF_Demo\TaskList_Service\bin\App_Data\EmployeeDB_log.ldf
+E:\Dot_Net_Projects\Assignment_Backup\GitWorking\WCF_Demo\TaskList_Service\bin\TaskList_Service.dll.config
+E:\Dot_Net_Projects\Assignment_Backup\GitWorking\WCF_Demo\TaskList_Service\bin\TaskList_Service.dll
+E:\Dot_Net_Projects\Assignment_Backup\GitWorking\WCF_Demo\TaskList_Service\bin\TaskList_Service.pdb
+E:\Dot_Net_Projects\Assignment_Backup\GitWorking\WCF_Demo\TaskList_Service\bin\EntityFramework.dll
+E:\Dot_Net_Projects\Assignment_Backup\GitWorking\WCF_Demo\TaskList_Service\bin\EntityFramework.SqlServer.dll
+E:\Dot_Net_Projects\Assignment_Backup\GitWorking\WCF_Demo\TaskList_Service\bin\EntityFramework.xml
+E:\Dot_Net_Projects\Assignment_Backup\GitWorking\WCF_Demo\TaskList_Service\bin\EntityFramework.SqlServer.xml
+E:\Dot_Net_Projects\Assignment_Backup\GitWorking\WCF_Demo\TaskList_Service\obj\Debug\TaskList_Service.csprojResolveAssemblyReference.cache
+E:\Dot_Net_Projects\Assignment_Backup\GitWorking\WCF_Demo\TaskList_Service\obj\Debug\TaskList_Service.dll
+E:\Dot_Net_Projects\Assignment_Backup\GitWorking\WCF_Demo\TaskList_Service\obj\Debug\TaskList_Service.pdb

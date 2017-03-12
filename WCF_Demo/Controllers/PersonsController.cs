@@ -1,7 +1,9 @@
 using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Web.Mvc;
+using AutoMapper;
 using MVC5Demo.TaskServiceClient;
 using Person = WCF_Demo.Models.Person;
 
@@ -22,8 +24,7 @@ namespace WCF_Demo.Controllers
         // GET: /Persons/
         public ActionResult Index()
         {
-         
-           var personlist = StClient.GetAllTask();
+          var personlist = StClient.GetAllTask();
 
             var lstRecord = personlist.Select(item => new Person
             {
@@ -33,7 +34,8 @@ namespace WCF_Demo.Controllers
                 Profession = item.Profession
             }).ToList();
          
-            return View(lstRecord);
+         return View(lstRecord);
+         
         }
 
 

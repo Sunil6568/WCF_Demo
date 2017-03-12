@@ -111,10 +111,10 @@ namespace MVC5Demo.TaskServiceClient {
     public interface ITaskService {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ITaskService/GetAllTask", ReplyAction="http://tempuri.org/ITaskService/GetAllTaskResponse")]
-        MVC5Demo.TaskServiceClient.Person[] GetAllTask();
+        System.Collections.Generic.List<MVC5Demo.TaskServiceClient.Person> GetAllTask();
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ITaskService/GetAllTask", ReplyAction="http://tempuri.org/ITaskService/GetAllTaskResponse")]
-        System.Threading.Tasks.Task<MVC5Demo.TaskServiceClient.Person[]> GetAllTaskAsync();
+        System.Threading.Tasks.Task<System.Collections.Generic.List<MVC5Demo.TaskServiceClient.Person>> GetAllTaskAsync();
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/ITaskService/GetTaskById", ReplyAction="http://tempuri.org/ITaskService/GetTaskByIdResponse")]
         MVC5Demo.TaskServiceClient.Person GetTaskById(int id);
@@ -168,11 +168,11 @@ namespace MVC5Demo.TaskServiceClient {
                 base(binding, remoteAddress) {
         }
         
-        public MVC5Demo.TaskServiceClient.Person[] GetAllTask() {
+        public System.Collections.Generic.List<MVC5Demo.TaskServiceClient.Person> GetAllTask() {
             return base.Channel.GetAllTask();
         }
         
-        public System.Threading.Tasks.Task<MVC5Demo.TaskServiceClient.Person[]> GetAllTaskAsync() {
+        public System.Threading.Tasks.Task<System.Collections.Generic.List<MVC5Demo.TaskServiceClient.Person>> GetAllTaskAsync() {
             return base.Channel.GetAllTaskAsync();
         }
         
